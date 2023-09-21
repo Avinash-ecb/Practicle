@@ -1,0 +1,36 @@
+Instruction 
+
+Practicle 1 (Experienced)
+- Create login page using google login auth there should be login and logout facility
+- After successfully login redirect to user list page 
+
+
+Practicle 2 (Fresher & Experienced)
+- Fetch user list data when load first time and store in local storage, display user data in table view page in bootstrap using profile list json which is on your desktop. 
+  Show edit and delete button on user list page
+- When we edit user it should redirect to new editprofile page with user id and fetch data from json file of that id and show in profile form
+- After changes in form there should be a validation and save data in local storage and redirect to user list page and show in updated table page
+
+Pages
+- Login Page (/login)
+- User List Page (/users)
+- Edit User Page (/users/edit?id={userid})
+
+Table Columns
+- Name
+- Email
+- Phone
+- Gender
+- City
+
+Bonus Point
+- Use pagination to showing user list
+- Form Validation
+- Clean and readable code
+- Comments when necessary
+- Manage source code in github
+
+Note: If you have any query you can ask.
+
+
+ 
